@@ -1,2 +1,2 @@
-# hacking.py
-hacki
+# m7md.sh
+cd
